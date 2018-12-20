@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+quna/__init__.py
+quna/items.py
+quna/middlewares.py
+quna/pipelines.py
+quna/settings.py
+quna/spiders/__init__.py
+quna/spiders/quspider.py
